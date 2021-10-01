@@ -1,14 +1,15 @@
 # SimHub Dashboard
-for ACC
+works with ACC
 
 ## Data Dashboard
-Leaderboard + Track map
+- Leaderboard
+- Track map
 
 ## Fuel Dashboard
-Current fuel
-Estimated fuel
-Tyre pressures
-Tyre temps
-Brake temps
-Motor map
-Flags
+- Current fuel
+- Estimated fuel
+- Tyre pressures
+- Tyre temps
+- Brake temps
+- Motor map
+- Flags
